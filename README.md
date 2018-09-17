@@ -2,7 +2,7 @@
 
 Building a personal website, realized face registration and login.
 
-This system uses Mysql as a database tool, developed using python3 language, connected to the database using the third-party package pymysql, the web framework used tornado5.0, which .
+This system uses Mysql as a database tool, developed using python3.6, connected to the database using the third-party package pymysql, the web framework used tornado5.0.
 
 #### PATH setting
 
@@ -40,12 +40,11 @@ In the above code, the constant APP_ID is created in the Baidu cloud console. Th
 - os：CentOS 6 x64
 - language：Python3.6
 - database：Mysql-server 5.1.73
-- First we need to install Mysql and Python3.6, then install tornado and pymysql. you can use 'pip install {packagename}==version
-'
-- run  'python {filename.py}'. In order to keep running, you can use the screen command or the nohup command.
+- First we need to install Mysql and Python3.6, then install tornado and pymysql. you can use `pip install {packagename}==version
+`
+- run  `python {filename.py}`. In order to keep running, you can use the screen command or the nohup command.
 
 
-#### 效果图
 
 register
 
@@ -54,7 +53,7 @@ register
 login
 
 ![login](assets/login.png)
-![login](assets/login2.png)
+![login2(assets/login2.png)
 
 database
 
