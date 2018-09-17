@@ -49,13 +49,13 @@ client = AipFace(APP_ID, API_KEY, SECRET_KEY)
 
 注册
 
-![](C:\Users\lenovo\Desktop\github.png)
+![register](assets/register.png)
 
 登入
 
-![](C:\Users\lenovo\Desktop\github2.png)
+![login](assets/login.png)
 
 数据库
 
-![](C:\Users\lenovo\Desktop\github3.png)
+![database](assets\database.png)
 
