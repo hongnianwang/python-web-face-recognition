@@ -53,7 +53,7 @@ register
 login
 
 ![login](assets/login.png)
-![login2(assets/login2.png)
+![login2](assets/login2.png)
 
 database
 
