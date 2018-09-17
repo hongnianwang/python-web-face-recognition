@@ -2,9 +2,9 @@
 
 from aip import AipFace
 
-APP_ID =
-API_KEY =
-SECRET_KEY =
+APP_ID = 'your APP ID'
+API_KEY = 'your Api Key'
+SECRET_KEY = 'your Secret Key'
 
 client = AipFace(APP_ID, API_KEY, SECRET_KEY)
 
