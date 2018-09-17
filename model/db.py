@@ -3,12 +3,12 @@
 import pymysql
 
 PY_MYSQL_CONN_DICT = {
-    'host' : ,
-    'user' : ',
-    'password' : ,
-    'database' : ,
-    'port' : ,
-    'charset' :
+    'host': 'localhost',  # This database is in the same server as the web.
+    'user': 'user_name',
+    'password': 'password',
+    'database': 'db_name',
+    'port': port,
+    'charset': 'utf8'
 }
 
 class DbConnection:
