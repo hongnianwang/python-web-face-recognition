@@ -23,7 +23,7 @@ PY_MYSQL_CONN_DICT = {
 
 #### Face API  setting
 
-Because this part is to call Baidu's API, you need to create a new AipFace, the code is as follows:
+You need to create a new AipFace, because this part is to call Baidu's API, the code is as follows:
 ```python
 from aip import AipFace
 
